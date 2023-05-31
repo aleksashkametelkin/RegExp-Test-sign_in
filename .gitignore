@@ -1,2 +1,4 @@
 .idea
 .gitattributes
+.hypothesis
+__pycache__

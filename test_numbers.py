@@ -19,6 +19,7 @@ def test_check_sign_in():
         }
 
     for i in numbers:
+        print(i)
         payload = user_payload()
         response = user_sign_in(payload)
         assert response.status_code == 202
