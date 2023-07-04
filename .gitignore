@@ -2,3 +2,4 @@
 .gitattributes
 .hypothesis
 __pycache__
+.pytest_cache
